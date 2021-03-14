@@ -1,7 +1,7 @@
 # fhemModbusSDM72DM
 FHEM Module zur Anbindung eines SDM72DM Modbus 3~ Energiemessgerät
 
-
+<img src="https://user-images.githubusercontent.com/48262831/111083910-2a43f600-8510-11eb-9881-79e6771f47ec.jpg" alt="RS485 oben" width="400"/>
 
 Das Modul ist eine Abwandlung von Roger's "98_ModbusSDM630M.pm" -> https://forum.fhem.de/index.php/topic,25315.msg274011.html#msg274011
 
